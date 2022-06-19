@@ -1,0 +1,189 @@
+device,company,cpuName,cores,clock,cpuScore,gpuScore,npuScore,MEM,UX,Total Score
+iPhone 13 Pro Max,Apple,A15 Bionic   ,6,3230,935,2273,2676,183160,153993,1429728
+iPhone 13 Pro,Apple,A15 Bionic   ,6,3230,931,2261,2665,137145,149463,1360219
+iPhone 13 mini,Apple,A15 Bionic   ,6,3230,924,1852,2660,107955,140140,1228385
+iPad Pro (12.9-inch 5th generation),Apple,M1    ,8,3190,1013,2824,2657,175442,181650,1038771
+iPad Pro (11-inch 3rd generation),Apple,M1    ,8,3190,1011,2842,2656,169449,182367,986840
+iPhone 13,Apple,A15 Bionic   ,6,3230,916,1831,2605,164052,168607,982228
+iPad mini (6th generation),Apple,A15 Bionic   ,6,2920,899,2095,2522,159805,169686,977395
+iPad Air (4th generation),Apple,A14 Bionic   ,6,2990,881,1950,2360,125757,124585,970055
+iPhone 12,Apple,A14 Bionic   ,6,2990,859,1584,2341,162502,167575,966916
+iPhone 12 Mini,Apple,A14 Bionic   ,6,2990,856,1578,2324,156134,171587,954336
+iPhone 12 Pro Max,Apple,A14 Bionic   ,6,2990,866,1579,2314,118624,123241,951629
+iPhone 12 Pro,Apple,A14 Bionic   ,6,2990,848,1564,2283,163707,135420,950424
+Google Pixel 6,Google,Tensor    ,8,1803,317,1374,1677,162098,160914,948391
+Google Pixel 6 Pro,Google,Tensor    ,8,1804,314,1368,1647,167766,157386,942849
+iPhone 11 Pro Max,Apple,A13 Bionic   ,6,2660,697,1375,1641,163444,133505,939931
+iPhone 11,Apple,A13 Bionic   ,6,2660,683,1363,1639,118147,120285,933332
+iPhone 11 Pro,Apple,A13 Bionic   ,6,2660,696,1369,1633,97571,121386,932782
+iPhone SE (2nd generation),Apple,A13 Bionic   ,6,2660,673,1354,1633,173807,151948,914476
+Microsoft Surface Duo 2,Qualcomm,Snapdragon 888   ,8,1804,384,1834,1615,97021,132231,912150
+Xiaomi 11T Pro,Qualcomm,Snapdragon 888   ,8,1804,386,1668,1536,157208,152510,905520
+iPad Pro (12.9-inch 3rd Generation),Apple,A12X Bionic   ,8,2490,694,1903,1415,120099,130079,897677
+iPad Pro 12.9-inch (4th generation),Apple,A12Z Bionic   ,8,2490,681,1942,1388,119565,130474,895932
+iPad Pro 11-inch (2nd generation),Apple,A12Z Bionic   ,8,2490,680,1938,1356,152223,146811,882752
+iPad Pro (11-inch),Apple,A12X Bionic   ,8,2490,678,1878,1352,126964,142398,874178
+Samsung Galaxy Z Fold3 5G,Qualcomm,Snapdragon 888   ,8,1804,371,1558,1337,152688,145316,857850
+iPad Air (3rd generation),Apple,A12 Bionic   ,6,2490,559,1134,1316,127428,134251,856630
+iPad mini (5th generation),Apple,A12 Bionic   ,6,2490,552,1128,1306,99202,134764,852462
+iPhone XR,Apple,A12 Bionic   ,6,2490,520,1097,1304,152881,159766,846786
+iPad (8th generation),Apple,A12 Bionic   ,6,2490,539,1110,1303,124250,128369,844489
+iPhone XS,Apple,A12 Bionic   ,6,2490,546,1110,1300,128265,130033,843339
+iPhone XS Max,Apple,A12 Bionic   ,6,2490,549,1151,1296,141441,160153,834664
+Samsung Galaxy Z Flip3,Qualcomm,Snapdragon 888   ,8,1804,367,1595,1240,134453,168075,831742
+Sony Xperia 1 III,Qualcomm,Snapdragon 888   ,8,1804,420,1726,1196,135773,165202,815484
+Xiaomi 11T,MediaTek,Dimensity 1200   ,8,2000,281,810,1093,160646,146321,814015
+Realme X7 Pro,MediaTek,Dimensity 1000+   ,8,2000,273,792,999,113139,127326,813403
+OnePlus Nord 2 5G,MediaTek,Dimensity 1200   ,8,2000,323,1097,941,114617,128131,811434
+ASUS ROG Phone 3,Qualcomm,Snapdragon 865+   ,8,1804,422,1417,876,135250,153115,804411
+Xiaomi Redmi K30 Ultra,MediaTek,Dimensity 1000+   ,8,2000,351,1348,869,116365,126598,802340
+Asus ROG Phone 5,Qualcomm,Snapdragon 888   ,8,1804,447,1810,856,125515,153509,794789
+Realme GT Neo,MediaTek,Dimensity 1200   ,8,2000,250,790,848,131853,153924,789015
+Xiaomi 11 Lite 5G NE,Qualcomm,Snapdragon 778G   ,8,1804,357,886,809,131336,158323,787745
+Xiaomi Mi 11,Qualcomm,Snapdragon 888   ,8,1804,395,1604,795,130016,151328,779704
+Realme GT 5G,Qualcomm,Snapdragon 888   ,8,1804,398,1688,789,137073,147341,777229
+OnePlus 9R,Qualcomm,Snapdragon 870   ,8,1804,378,1346,785,128323,156020,772505
+Xiaomi Mi 11 Ultra,Qualcomm,Snapdragon 888   ,8,1804,389,1589,776,135006,151363,768677
+Asus Zenfone 7,Qualcomm,Snapdragon 865   ,8,1804,434,1365,773,135422,148353,756868
+OnePlus 9R 5G,Qualcomm,Snapdragon 870   ,8,1804,390,1357,761,105258,119323,734910
+Xiaomi Redmi K40,Qualcomm,Snapdragon 870   ,8,1804,390,789,753,137000,143717,733582
+Realme GT Neo2,Qualcomm,Snapdragon 870   ,8,1804,395,1340,735,105681,118275,732053
+Xiaomi Poco F3,Qualcomm,Snapdragon 870   ,8,1804,386,1348,729,128606,160319,731589
+Xiaomi Mi 10T 5G,Qualcomm,Snapdragon 865   ,8,1804,401,1267,722,113077,134124,730017
+OnePlus 8T+ 5G,Qualcomm,Snapdragon 865   ,8,1804,400,1252,721,119287,152290,729871
+Xiaomi Mi 11X,Qualcomm,Snapdragon 870   ,8,1804,377,1322,720,87211,121573,729614
+Sony Xperia 5 II,Qualcomm,Snapdragon 865   ,8,1804,378,1258,715,106576,145721,728567
+Xiaomi Mi 10T Pro 5G,Qualcomm,Snapdragon 865   ,8,1804,374,1250,709,131873,131695,727138
+Realme GT Master,Qualcomm,Snapdragon 778G   ,8,1804,347,857,708,104270,149164,722936
+Samsung Galaxy Note10+,Qualcomm,Snapdragon 855   ,8,1785,325,1019,706,121223,135085,718412
+OnePlus 8T,Qualcomm,Snapdragon 865   ,8,1804,384,1259,702,124589,154763,713813
+OnePlus 8 Pro,Qualcomm,Snapdragon 865   ,8,1804,386,1265,700,118945,150484,707854
+Samsung Galaxy Z Fold2 5G,Qualcomm,Snapdragon 865   ,8,1804,399,1316,697,117836,153645,706606
+Samsung Galaxy Note20 5G,Qualcomm,Snapdragon 865+   ,8,1804,380,1315,695,112030,150136,704933
+Sony Xperia 1 II,Qualcomm,Snapdragon 865   ,8,1804,373,1219,687,117820,150182,704634
+Xiaomi Poco F2 Pro,Qualcomm,Snapdragon 865   ,8,1804,405,1232,685,93139,116765,698916
+Samsung Galaxy Tab S7+,Qualcomm,Snapdragon 865   ,8,1804,390,1355,685,116347,145862,693954
+Samsung Galaxy Note20 Ultra 5G,Qualcomm,Snapdragon 865+   ,8,1804,401,1283,684,132911,140180,692497
+Samsung Galaxy Tab S7,Qualcomm,Snapdragon 865   ,8,1804,393,1353,683,128057,148244,692423
+Samsung Galaxy Tab S6,Qualcomm,Snapdragon 855   ,8,1785,318,994,666,128613,142691,689417
+Google Pixel 4 XL,Qualcomm,Snapdragon 855   ,8,1785,338,1029,644,125038,144954,687642
+Samsung Galaxy A90 5G,Qualcomm,Snapdragon 855   ,8,1785,348,1132,643,110754,144418,682763
+Asus Zenfone 8,Qualcomm,Snapdragon 888   ,8,1804,413,1638,635,119504,121290,668409
+Google Pixel 4,Qualcomm,Snapdragon 855   ,8,1785,331,1039,610,116327,132373,662353
+OnePlus 7T Pro 5G,Qualcomm,Snapdragon 855+   ,8,1785,317,1157,609,114605,112997,661290
+OnePlus 8,Qualcomm,Snapdragon 865   ,8,1804,386,1201,604,109255,134448,658741
+Xiaomi Mi 9,Qualcomm,Snapdragon 855   ,8,1785,301,1087,598,82343,114439,658077
+Xiaomi Poco X3 Pro,Qualcomm,Snapdragon 860   ,8,1785,319,1145,591,84029,113826,657114
+Sony Xperia 1,Qualcomm,Snapdragon 855   ,8,1785,325,1065,577,119604,134198,656456
+iPad Pro (10.5-inch),Apple,A10X Fusion   ,6,2340,598,1048,569,109624,139800,656195
+iPad Pro (12.9-inch 2nd Generation),Apple,A10X Fusion   ,6,2340,617,1059,566,114856,138258,654207
+OnePlus 7T,Qualcomm,Snapdragon 855+   ,8,1785,316,1146,564,121863,122961,639971
+OnePlus 7,Qualcomm,Snapdragon 855   ,8,1785,315,1044,555,115503,130869,639660
+Realme X2 Pro,Qualcomm,Snapdragon 855+   ,8,1785,299,1033,543,115018,124816,638057
+OnePlus 7 Pro,Qualcomm,Snapdragon 855   ,8,1785,315,1066,533,119086,128074,633226
+OnePlus 7T Pro,Qualcomm,Snapdragon 855+   ,8,1785,310,1078,533,111476,126216,632287
+LG V50 ThinQ 5G,Qualcomm,Snapdragon 855   ,8,1785,296,1049,523,81681,113284,629896
+Xiaomi Mi 9T Pro,Qualcomm,Snapdragon 855   ,8,1785,313,1067,517,90717,113948,621492
+LG G8 ThinQ,Qualcomm,Snapdragon 855   ,8,1785,299,1019,493,92946,122376,615182
+Samsung Galaxy Note10,Qualcomm,Snapdragon 855   ,8,1785,321,921,489,118874,115609,615168
+Xiaomi Redmi K20,Qualcomm,Snapdragon 730   ,8,1804,221,1058,478,110592,117713,614400
+Samsung Galaxy Note20 Ultra,Samsung,Exynos 990   ,8,2002,297,1049,471,118075,132945,611623
+iPhone 8,Apple,A11 Bionic   ,6,2390,411,861,433,98776,108722,608671
+iPhone X,Apple,A11 Bionic   ,6,2390,403,864,433,98240,109954,605560
+iPhone 8 Plus,Apple,A11 Bionic   ,6,2390,408,853,425,87954,106907,583508
+Google Pixel 3,Qualcomm,Snapdragon 845   ,8,1766,201,807,424,108980,105101,582636
+Huawei Mate 40 Pro,HiSilicon,Kirin 9000   ,8,2045,441,1290,417,82177,124696,560877
+Samsung Galaxy A71 5G,Samsung,Exynos 980   ,8,1804,227,605,409,104920,129076,559591
+Samsung Galaxy A52 5G,Qualcomm,Snapdragon 750G   ,8,1804,260,553,403,113461,118323,557841
+iPad (6th generation),Apple,A10 Fusion   ,4,2320,425,716,402,116372,99726,553251
+Google Pixel 5,Qualcomm,Snapdragon 765G   ,8,1804,258,620,401,113773,107469,546372
+Realme 8,MediaTek,Helio G95   ,8,2000,204,544,394,80700,120326,546114
+iPad (7th generation),Apple,A10 Fusion   ,4,2320,392,709,392,115188,97483,545379
+Google Pixel 4a 5G,Qualcomm,Snapdragon 765G   ,8,1804,252,641,391,93097,130770,544862
+iPhone 7 Plus,Apple,A10 Fusion   ,4,2340,357,677,384,59771,95609,533383
+iPhone 7,Apple,A10 Fusion   ,4,2340,354,676,382,80851,109653,532919
+Huawei Mate 30 Pro 5G,HiSilicon,Kirin 990   ,8,1954,378,1035,381,82547,121833,532023
+iPad Pro (12.9-inch),Apple,A9X    ,2,2260,376,727,380,82828,134178,530806
+iPad Pro (9.7-inch),Apple,A9X    ,2,2260,360,679,364,79812,128280,526824
+OnePlus Nord,Qualcomm,Snapdragon 765G   ,8,1804,245,555,364,89798,115055,525322
+Realme 7,MediaTek,Helio G95   ,8,2000,217,581,362,75726,110293,523344
+Google Pixel 3 XL,Qualcomm,Snapdragon 845   ,8,1766,221,787,351,76256,114783,519963
+Huawei Mate 20 Pro,HiSilicon,Kirin 980   ,8,1805,330,945,346,85772,118234,516932
+OnePlus 6T,Qualcomm,Snapdragon 845   ,8,1766,229,758,344,66439,110143,511930
+Samsung Galaxy Note10 5G,Samsung,Exynos 9825   ,8,1950,200,818,338,80212,116389,511424
+Samsung Galaxy A52,Qualcomm,Snapdragon 720G   ,8,1804,217,502,334,85539,113190,508020
+OnePlus 6,Qualcomm,Snapdragon 845   ,8,1766,226,751,332,65845,110432,506972
+Google Pixel 4a,Qualcomm,Snapdragon 730G   ,8,1690,225,493,329,74844,116989,501567
+Samsung Galaxy A52S 5G,Qualcomm,Snapdragon 778G   ,8,1804,370,968,325,82315,105954,491321
+Samsung Galaxy A72,Qualcomm,Snapdragon 720G   ,8,1804,213,461,325,77521,109874,490315
+Xiaomi Poco X3 NFC,Qualcomm,Snapdragon 732G   ,8,1804,225,508,323,81222,103916,484381
+Samsung Galaxy A71,Qualcomm,Snapdragon 730   ,8,1804,223,422,323,104045,91629,483694
+Huawei nova 5T,HiSilicon,Kirin 980   ,8,1805,304,853,322,89894,109287,482746
+Huawei Honor View 20,HiSilicon,Kirin 980   ,8,1805,309,827,316,83379,110484,481133
+Huawei P30 Pro,HiSilicon,Kirin 980   ,8,1805,290,824,316,85869,109869,480377
+Huawei P30,HiSilicon,Kirin 980   ,8,1805,283,747,313,70893,107323,478259
+iPod (7th generation),Apple,A10 Fusion   ,4,1633,337,551,306,82599,109925,477028
+Huawei Mate 20,HiSilicon,Kirin 980   ,8,1805,282,813,304,82589,110467,476712
+Xiaomi Mix 2S,Qualcomm,Snapdragon 845   ,8,1766,218,750,304,65647,105111,475418
+Xiaomi Mi 8,Qualcomm,Snapdragon 845   ,8,1766,203,771,300,81216,126430,466561
+Xiaomi Pocophone F1,Qualcomm,Snapdragon 845   ,8,1766,194,753,294,80467,99106,463516
+Samsung Galaxy A51 5G,Samsung,Exynos 980   ,8,1794,227,673,291,84301,81936,461027
+Xiaomi Redmi Note 10 Pro,Qualcomm,Snapdragon 732G   ,8,1804,213,503,291,79428,110047,460652
+Samsung Galaxy Note 9,Qualcomm,Snapdragon 845   ,8,1766,209,669,285,60796,82528,449115
+iPad (5th generation),Apple,A9    ,2,1800,307,522,284,81331,110622,445826
+Xiaomi Redmi Note 9S,Qualcomm,Snapdragon 720G   ,8,1804,224,486,284,61215,79122,432110
+Xiaomi Poco F1,Qualcomm,Snapdragon 845   ,8,1766,181,791,283,67660,90340,420368
+iPhone SE,Apple,A9    ,2,1800,298,513,280,65957,88365,418731
+LG G7 ThinQ,Qualcomm,Snapdragon 845   ,8,1766,215,743,280,75582,106382,418631
+Xiaomi Redmi Note 9 Pro,Qualcomm,Snapdragon 720G   ,8,1804,224,474,279,62636,114970,404100
+Sony Xperia XZ2 Compact,Qualcomm,Snapdragon 845   ,8,1766,227,750,278,94508,78137,399314
+Sony Xperia XZ2,Qualcomm,Snapdragon 845   ,8,1766,219,777,278,68572,106176,395887
+Samsung Galaxy S9,Qualcomm,Snapdragon 845   ,8,1766,216,738,278,72696,98212,388175
+iPhone 6s Plus,Apple,A9    ,2,1849,280,508,272,60547,80159,388164
+iPhone 6s,Apple,A9    ,2,1849,279,502,271,64227,105834,385720
+Samsung Galaxy F62,Samsung,Exynos 9825   ,8,1950,159,812,270,61967,80741,380596
+Xiaomi Mi 9T,Qualcomm,Snapdragon 730   ,8,1804,221,430,268,60681,79397,375416
+Xiaomi Mi 11 Lite,Qualcomm,Snapdragon 780G   ,8,1900,334,952,265,71838,93973,371140
+Google Pixel 3a XL,Qualcomm,Snapdragon 670   ,8,1708,164,356,262,59697,98312,359276
+Realme 5 Pro,Qualcomm,Snapdragon 712   ,8,1708,172,398,233,69006,97555,358595
+Huawei P40,HiSilicon,Kirin 990   ,8,1954,312,605,231,51717,72958,357740
+Xiaomi Redmi Note 10,Qualcomm,Snapdragon 678   ,8,1708,207,291,215,62163,96507,356802
+Google Pixel 3a,Qualcomm,Snapdragon 670   ,8,1708,155,331,209,56815,98560,355620
+Samsung Galaxy Note10 Lite,Samsung,Exynos 9810   ,8,1794,232,679,202,56425,98537,354882
+Xiaomi Redmi Note 7 Pro,Qualcomm,Snapdragon 675   ,8,1708,200,284,182,56223,100255,353807
+Samsung Galaxy Tab A7,Qualcomm,Snapdragon 662   ,8,1804,151,638,171,59412,94658,352665
+iPad Air 2,Apple,A8X    ,3,1500,244,376,152,56122,97480,352465
+Xiaomi Redmi Note 8,Qualcomm,Snapdragon 665   ,8,1804,146,211,147,57847,94018,352179
+Google Pixel XL,Qualcomm,MSM8996 Pro-AB Snapdragon 821 ,4,1593,157,254,131,51788,70642,351731
+Google Pixel 2 XL,Qualcomm,Snapdragon 835   ,8,1900,154,188,131,56476,97556,349760
+Xiaomi Redmi Note 8T,Qualcomm,Snapdragon 665   ,8,1804,150,212,131,58339,95112,348537
+OnePlus 5T,Qualcomm,Snapdragon 835   ,8,1900,154,487,128,56091,89848,343649
+Essential PH-1,Qualcomm,Snapdragon 835   ,8,1900,154,353,125,55633,89985,343317
+Google Pixel 2,Qualcomm,Snapdragon 835   ,8,1900,154,187,124,56063,92392,342944
+Google Pixel,Qualcomm,MSM8996 Pro-AB Snapdragon 821 ,4,1593,185,155,123,68466,93234,342845
+iPad mini 4,Apple,A8    ,2,1500,181,275,113,55563,94348,341482
+Samsung Galaxy S8,Qualcomm,Snapdragon 835   ,8,1900,151,617,110,67644,93096,340155
+NVIDIA SHIELD Android TV,NVIDIA,Tegra X1   ,4,2014,154,226,108,54486,88646,330916
+Samsung Galaxy Tab S6 Lite,Samsung,Exynos 9611   ,8,1742,126,300,108,52846,86607,329717
+Huawei P30 lite,HiSilicon,Kirin 710   ,8,1709,127,269,107,55996,85992,323765
+Sony Xperia XZ1,Qualcomm,Snapdragon 835   ,8,1900,159,553,102,62086,93918,322791
+Xiaomi Mi A2,Qualcomm,Snapdragon 660   ,8,1843,122,278,102,58406,83781,313100
+Samsung Galaxy A51,Samsung,Exynos 9611   ,8,1742,121,289,102,44202,52768,273931
+Samsung Galaxy M30s,Samsung,Exynos 9611   ,8,1742,120,323,101,40993,54797,270200
+Xiaomi Redmi Note 7,Qualcomm,Snapdragon 660   ,8,1843,134,276,100,48215,76620,268746
+Samsung Galaxy M31,Samsung,Exynos 9611   ,8,1742,124,294,100,40047,53217,267012
+Xiaomi Redmi 10X 4G,MediaTek,Helio G85   ,8,1800,151,230,97,66281,71080,264577
+Samsung Galaxy S8,Samsung,Exynos 8895 Octa  ,8,1690,142,499,95,44181,82926,256035
+Samsung Galaxy Note 8,Qualcomm,Snapdragon 835   ,8,1900,154,650,93,41767,80297,243061
+Xiaomi Redmi 9,MediaTek,Helio G80   ,8,1800,155,256,88,45941,67989,231982
+Samsung Galaxy Tab S5e,Qualcomm,Snapdragon 670   ,8,1708,134,275,88,46470,67868,231515
+Samsung Galaxy A50,Samsung,Exynos 9610   ,8,1742,122,293,85,39208,66668,225097
+Sony Xperia XZ Premium,Qualcomm,Snapdragon 835   ,8,1900,155,548,80,56091,89848,343649
+Samsung Galaxy S6,Samsung,Exynos 7420   ,8,1500,136,167,79,55633,89985,343317
+Samsung Galaxy S8+,Qualcomm,Snapdragon 835   ,8,1900,147,585,75,56063,92392,342944
+Samsung Galaxy A20,Samsung,Exynos 7884   ,8,1352,89,210,74,68466,93234,342845
+Samsung Galaxy Note FE,Samsung,Exynos 8890   ,8,1300,133,400,71,55563,94348,341482
+Huawei Nexus 6P,Qualcomm,Snapdragon 810   ,8,1555,85,111,71,67644,93096,340155
+LG Nexus 5X,Qualcomm,Snapdragon 808   ,6,1440,78,75,68,54486,88646,330916
+LG V30,Qualcomm,Snapdragon 835   ,8,1900,146,504,66,52846,86607,329717
+Samsung Galaxy A21s,Samsung,Exynos 850   ,8,2002,96,177,56,55996,85992,323765
